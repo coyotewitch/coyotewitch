@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @coyotewitch
 - 👀 I’m interested in coding & Star Wars
-- 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on something fun! 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Lua and Go
+- 💞️ I’m contributing to World of Warcraft mods! 
 
 <!---
 coyotewitch/coyotewitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
